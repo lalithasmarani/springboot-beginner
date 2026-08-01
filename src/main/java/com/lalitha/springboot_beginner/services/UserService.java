@@ -6,7 +6,7 @@ import java.util.Random;
 
 import org.springframework.stereotype.Service;
 
-import com.lalitha.springboot_beginner_cohort_3.models.User;
+import com.lalitha.springboot_beginner.models.User;
 
 @Service
 public class UserService {
